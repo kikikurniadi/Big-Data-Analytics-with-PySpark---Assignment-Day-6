@@ -1,5 +1,4 @@
-##Analisis Sentimen Berita Online dengan PySpark
-
+Analisis Sentimen Berita Online dengan PySpark
 
 Proyek ini melakukan analisis data pada dataset Online News Popularity menggunakan PySpark. Tujuannya adalah untuk mengklasifikasikan berita online menjadi positif atau negatif berdasarkan fitur-fitur sentimen yang tersedia dalam dataset. Analisis ini mencakup eksplorasi data, transformasi, visualisasi, dan pembangunan model machine learning.
 
